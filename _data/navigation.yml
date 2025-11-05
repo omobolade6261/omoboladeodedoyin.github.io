@@ -9,8 +9,8 @@
 
 main:    
   - title: "CV"
-  url: /files/cv.pdf
-  external: true
+    url: /files/cv.pdf
+    external: true
     
   # - title: "CV"
   #   url: /cv-json/
