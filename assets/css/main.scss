@@ -41,13 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* remove gray line above footer */
-.page__footer,
-.page__footer:before,
-.page__footer::before {
-  border: none !important;
-  box-shadow: none !important;
-  background: transparent !important;
-  height: auto !important;
-  content: none !important;
-}
