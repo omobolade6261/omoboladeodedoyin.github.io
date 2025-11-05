@@ -41,3 +41,14 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* remove theme footer separators completely */
+.page__footer,
+.page__footer:before,
+.page__footer::before {
+  border: 0 !important;
+  box-shadow: none !important;
+  background: transparent !important;
+  content: none !important;
+  height: auto !important;
+}
+
