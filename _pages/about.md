@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-i am a first-year ph.d. student in the [department of computer science](https://cs.jhu.edu) at [johns hopkins university](https://www.jhu.edu), advised by [joshua vogelstein, ph.d.](https://jovo.me) and [jessica sorrell, ph.d.](https://jlsorrell.github.io/). i colloborate under the [neurodata lab](neurodata.io) and the [learning theory group](https://www.cs.jhu.edu/~mdinitz/theory/), where i work at the intersection of theoretical machine learning, statistical methodology for high-dimensional data, reinforcement learning, and optimization. i am also a member of the [mathematical institute for data science](https://www.minds.jhu.edu/) and the [institute for data intensive engineering and science](https://www.idies.jhu.edu/)
+i am a first-year ph.d. student in the [department of computer science](https://cs.jhu.edu) at [johns hopkins university](https://www.jhu.edu), advised by [joshua vogelstein, ph.d.](https://jovo.me) and [jessica sorrell, ph.d.](https://jlsorrell.github.io/). i colloborate under the [neurodata lab](neurodata.io) and the [learning theory group](https://www.cs.jhu.edu/~mdinitz/theory/), where i work at the intersection of theoretical machine learning, statistical methodology for high-dimensional data, reinforcement learning, and optimization. i am also a member of the [mathematical institute for data science](https://www.minds.jhu.edu/) and the [institute for data intensive engineering and science](https://www.idies.jhu.edu/).
 
 my research is supported by the [gem fellowship](https://www.gemfellowship.org/gem-fellowship-program/) and [the johns hopkins computer science department](https://www.cs.jhu.edu). 
 
