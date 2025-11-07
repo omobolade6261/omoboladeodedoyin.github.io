@@ -13,7 +13,7 @@ i am a first-year ph.d. student in the [department of computer science](https://
 
 my research is supported by the [johns hopkins computer science department fellowship](https://www.cs.jhu.edu) and the [gem phd employer fellowship](https://www.gemfellowship.org/gem-fellowship-program/) through the [idaho national laboratory](https://inl.gov) and [whiting school of engineering](https://engineering.jhu.edu/)
 
-previously, i earned a b.s. in [applied mathematics and statistics](https://ams.jhu.edu) from johns hopkins university as a [cummings scholar](https://apply.jhu.edu/tuition-aid/types-of-financial-aid/need-based-scholarships/cummings-scholars-program/). following my undergraduate education, i earned an m.s.e. in [data science](https://engineering.jhu.edu/ams/academics/graduate-studies/masters-data-science/) from johns hopkins university as a gem employer master's fellow and rubenstein fellow.
+previously, i earned a [b.s. in applied mathematics and statistics](https://engineering.jhu.edu/ams/academics/undergraduate-studies/undergraduate-major/) from johns hopkins university as a [cummings scholar](https://apply.jhu.edu/tuition-aid/types-of-financial-aid/need-based-scholarships/cummings-scholars-program/). following my undergraduate education, i earned an [m.s.e. in data science](https://engineering.jhu.edu/ams/academics/graduate-studies/masters-data-science/) from johns hopkins university as a gem employer master's fellow and rubenstein fellow.
 
 for more information, please see my [cv](/files/cv.pdf)
 
